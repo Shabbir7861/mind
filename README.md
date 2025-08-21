@@ -1,0 +1,2 @@
+# mind
+some shit project
