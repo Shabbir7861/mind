@@ -1,0 +1,5 @@
+Flask
+requests
+yt-dlp
+Werkzeug
+#pip install -r requirements.txt

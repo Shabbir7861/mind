@@ -1,0 +1,13 @@
+download ffmpeg , extract location :- C:\\ffmpeg
+ 
+
+File structure:- 
+DTG Music Player\
+|----app.py
+|----static\
+     |----index.html
+     |----styles\
+          |----style.css
+     |----scripts\
+          |----app.js
+|----requirements.txt
