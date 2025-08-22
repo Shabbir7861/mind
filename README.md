@@ -7,3 +7,5 @@
 ### You can use this also on your phone , but hosting through the pc is required.
 ### Help me improve this with you
 #### If it doen't fetch ffmpeg properly try looking into app.py file and change the location according to your location .
+#### go to app.py line 204 and change the location of ffmpeg according to your location.
+ 
