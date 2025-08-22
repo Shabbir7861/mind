@@ -1,5 +1,7 @@
 download ffmpeg , extract location :- C:\\ffmpeg
  
+run :- (pip install -r requirements) in terminal 
+
 
 File structure:- 
 DTG Music Player\
