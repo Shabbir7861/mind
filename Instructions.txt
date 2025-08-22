@@ -1,4 +1,5 @@
-download ffmpeg , extract location :- C:\\ffmpeg
+download ffmpeg , extract location :- C:\\ffmpeg, 
+if the fetch from youtube doesn't work properlly and show ffmpeg error go to app.py line 204 and change the location of ffmpeg according to your location.
  
 run :- (pip install -r requirements) in terminal 
 
