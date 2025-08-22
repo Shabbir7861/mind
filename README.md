@@ -6,3 +6,4 @@
 ### This will work whenever the server is hosted.
 ### You can use this also on your phone , but hosting through the pc is required.
 ### Help me improve this with you
+#### If it doen't fetch ffmpeg properly try looking into app.py file and change the location according to your location .
